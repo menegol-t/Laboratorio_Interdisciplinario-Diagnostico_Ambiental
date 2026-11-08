@@ -2,17 +2,24 @@
 
 Script en Python que lee un Excel con precipitación diaria de una estación meteorológica y dibuja un gráfico de barras con el total de cada año. En particular, se utilizo  el excel [smn_datos_meteorologicos_1991_2020](https://ssl.smn.gob.ar/dpd/observaciones/smn_datos_meteorologicos_1991_2020.rar) obtenido del [Servicio Meteorologico Nacional Argentino > Descarga de datos historicos > Registro de datos diarios 1991-2020](https://www.smn.gob.ar/descarga-de-datos). De esta fuente, se filtro solo la estación de San Miguel y se genero con sus datos el nuevo excel "Estación de San Miguel", adjunto en este repositorio.
 
-## Requisitos
+## Uso rápido
 
-- Python 3.9 o superior
-- Librerías: `pandas`, `openpyxl`, `matplotlib`
-
+Instalar librerias
 ```
 python -m pip install pandas openpyxl matplotlib
 ```
 
+Posterior
+```
+python precip_anual.py estacion_san_miguel.xlsx
+```
 
-## Formato del Excel
+# Requisitos
+
+- Python 3.9 o superior
+
+
+### Formato del Excel
 
 El archivo debe tener una hoja con dos columnas, con estos nombres exactos en la primera fila:
 
@@ -26,7 +33,7 @@ El archivo debe tener una hoja con dos columnas, con estos nombres exactos en la
 - `PRECIP`: precipitación diaria en mm.
 - Una fila por día y **una sola estación**. Si el archivo tiene varias estaciones apiladas, o filas repetidas, los totales salen inflados: filtrá o limpiá los datos antes.
 
-## Como usarlo
+### Otras opciones
 
 ```
 python precip_anual.py estacion_san_miguel.xlsx
