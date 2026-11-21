@@ -91,7 +91,8 @@ El crecimiento poblacional puede relacionarse con:
 
 ## Fuentes
 
-Instituto Nacional de Estadística y Censos. (s. f.). Censo Nacional de Población y Vivienda 1991 y Censo Nacional de Población, Hogares y Viviendas 2001: Provincia de Buenos Aires según partido. Población, superficie y densidad. Años 1991-2001 [Cuadro 2.2]. https://www.indec.gob.ar/indec/web/Nivel4-CensoProvincia2001-1-999-07-1-2001
+Instituto Nacional de Estadística y Censos. (s. f.). Censo Nacional de Población y Vivienda 1991 y Censo Nacional de Población, Hogares y Viviendas 2001: Provincia de Buenos Aires según partido. Población, superficie y densidad. Años 1991-2001 [Cuadro 2.2]. https://www.indec.gob.ar/indec/web/Nivel4-CensoProvincia2001-1-999-07-1-2001.
+
 Instituto Nacional de Estadística y Censos. (2023). Censo Nacional de Población, Hogares y Viviendas 2022: Resultados definitivos. Provincia de Buenos Aires [Cuadro 1.2. Total de población, variación absoluta y variación relativa, por partido. Años 2010 y 2022]. https://www.indec.gob.ar/indec/web/Nivel4-Tema-2-41-165
 
 
